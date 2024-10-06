@@ -460,7 +460,7 @@
             ]
         },
         {
-            "selector": ".avatar pixelated",
+            "selector": "img.avatar.pixelated {",
             "text": [
                 "派克猫猫！"
             ]
