@@ -3,7 +3,7 @@
     border-radius: 5px;
     bottom: 66px;
     color: var(--text-color);
-    cursor: pointer;
+    cursor: url('https://cdn.zygame1314.site/gh/zygame1314/zygame1314page@latest/images/cursors/Rath pointer.cur'), auto;
     font-size: 12px;
     left: 0;
     margin-left: -100px;
@@ -68,14 +68,14 @@
 }
 
 #live2d {
-    cursor: grab;
+    cursor: url('https://cdn.zygame1314.site/gh/zygame1314/zygame1314page@latest/images/cursors/Rath pointer.cur'), auto;
     height: 300px;
     position: relative;
     width: 300px;
 }
 
 #live2d:active {
-    cursor: grabbing;
+    cursor: url('https://cdn.zygame1314.site/gh/zygame1314/zygame1314page@latest/images/cursors/Rath pointer.cur'), auto;
 }
 
 #waifu-tool {
@@ -99,7 +99,7 @@
 
 #waifu-tool svg {
     fill: #aaa;
-    cursor: pointer;
+    cursor: url('https://cdn.zygame1314.site/gh/zygame1314/zygame1314page@latest/images/cursors/Rath pointer.cur'), auto;
     height: 25px;
     transition: fill .3s;
 }
